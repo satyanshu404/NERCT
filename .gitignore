@@ -6,6 +6,23 @@ __pycache__/
 # C extensions
 *.so
 
+# custom files
+data/
+cache/
+trash/
+indexes/
+tokenized/
+runs/
+plots/
+models/
+results/
+csv_results/
+*result*
+*temp*
+*.log
+*tmp*
+questions.txt
+
 # Distribution / packaging
 .Python
 build/
