@@ -17,7 +17,8 @@ plots/
 models/
 results/
 csv_results/
-*result*
+*t_test_results*
+*test*.ipynb
 *temp*
 *.log
 *tmp*
