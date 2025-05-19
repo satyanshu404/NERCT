@@ -12,12 +12,12 @@ cache/
 trash/
 indexes/
 tokenized/
-runs/
-plots/
+# runs/
+# plots/
 models/
-results/
-csv_results/
-*t_test_results*
+# results/
+# csv_results/
+# *t_test_results*
 *test*.ipynb
 *temp*
 *.log
